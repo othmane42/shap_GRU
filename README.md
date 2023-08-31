@@ -1,2 +1,2 @@
 # shap_GRU
-this is a repo where shap is applied on sequential model for sentiment analysis on IMDB dataset
+This repository features an implementation that leverages the SHAP (SHapley Additive exPlanations) library to interpret a Sequential Neural Network model, specifically designed for sentiment analysis on the IMDb movie reviews dataset.
